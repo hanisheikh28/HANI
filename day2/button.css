@@ -1,0 +1,23 @@
+.sub{
+    color:white;
+    border-color: red;
+    background-color: red;
+}
+.join{
+    color: green;
+    background-color: #ffffff;
+    border-color: green;
+    
+}
+.join:hover{
+ background-color: green;
+ color: white;
+}
+.twi{
+    color: white;
+    background-color: aqua;
+    border-color: aqua;
+    border-radius: 5px;
+
+
+}
