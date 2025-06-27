@@ -1,23 +1,42 @@
+*{
+    padding:0%;
+    margin:0%;
+}
+
+
 .sub{
     color:white;
     border-color: red;
     background-color: red;
+    padding: .5rem;
 }
 .join{
     color: green;
+    height: fit-content;
     background-color: #ffffff;
     border-color: green;
+    border-width: 3px;
+     padding: .5rem;
+    
     
 }
 .join:hover{
  background-color: green;
  color: white;
+ cursor: pointer;
 }
 .twi{
     color: white;
     background-color: aqua;
     border-color: aqua;
-    border-radius: 5px;
-
-
+    border-radius: 7px;
+    text-transform: capitalize ;
+    padding: .5rem;
+ text-transform: capitalize ;
 }
+.twi:hover {
+    width: 100px;
+    text-transform: capitalize ;
+    letter-spacing: 2px;
+}
+    

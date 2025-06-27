@@ -1,0 +1,29 @@
+    *{
+     margin: 0;
+    padding: 0;
+    border: border-box;
+    }
+    body{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    background: black;
+    cursor: zoom-in;
+    cursor: zoom-out;
+}
+   #form{
+    background-color: aliceblue;
+    width: 30rem;
+    height: 30rem;
+    align-items:center;
+    position : relative;
+    margin: auto;
+    display: block;
+   }
+   #form button{
+    background-color: red;
+    color: white;
+    border: none;
+    cursor:pointer;
+    width:50%;
+   }
